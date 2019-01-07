@@ -1,0 +1,10 @@
+[2019-01-02 17:28:56,304 - VISUAL-RECOGNITION - ERROR] - --- WRITE CSV FAIL ---CLASSNAME : M00026---IMGNAME : かけうどん_家庭１.jpg---'str' object has no attribute 'decode'--
+[2019-01-02 17:28:56,305 - VISUAL-RECOGNITION - ERROR] - --- WRITE CSV FAIL ---CLASSNAME : M00019---IMGNAME : 握り寿司_板１.jpg---'str' object has no attribute 'decode'--
+[2019-01-02 17:28:56,305 - VISUAL-RECOGNITION - ERROR] - --- WRITE CSV FAIL ---CLASSNAME : M00033---IMGNAME : ほうれん草のおひたし_定食１.jpg---'str' object has no attribute 'decode'--
+[2019-01-02 17:28:56,306 - VISUAL-RECOGNITION - ERROR] - --- WRITE CSV FAIL ---CLASSNAME : M00014---IMGNAME : M00014_T_2.jpg---'str' object has no attribute 'decode'--
+[2019-01-02 17:30:12,211 - VISUAL-RECOGNITION - ERROR] - --- WRITE CSV FAIL ---CLASSNAME : M00026---IMGNAME : かけうどん_家庭１.jpg---'str' object has no attribute 'decode'--
+[2019-01-02 17:30:12,212 - VISUAL-RECOGNITION - ERROR] - --- WRITE CSV FAIL ---CLASSNAME : M00019---IMGNAME : 握り寿司_板１.jpg---'str' object has no attribute 'decode'--
+[2019-01-02 17:30:12,212 - VISUAL-RECOGNITION - ERROR] - --- WRITE CSV FAIL ---CLASSNAME : M00033---IMGNAME : ほうれん草のおひたし_定食１.jpg---'str' object has no attribute 'decode'--
+[2019-01-02 17:30:12,213 - VISUAL-RECOGNITION - ERROR] - --- WRITE CSV FAIL ---CLASSNAME : M00014---IMGNAME : M00014_T_2.jpg---'str' object has no attribute 'decode'--
+[2019-01-07 13:48:29,883 - VISUAL-RECOGNITION - ERROR] - --- WRITE CSV FAIL ---CLASSNAME : M00014---IMGNAME : M00014_T_2.jpg---write() argument must be str, not dict--
+[2019-01-07 14:25:52,399 - VISUAL-RECOGNITION - ERROR] - --- WRITE CSV FAIL ---CLASSNAME : M00014---IMGNAME : M00014_T_2.jpg---can only concatenate str (not "int") to str--
