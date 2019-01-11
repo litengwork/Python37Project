@@ -1,0 +1,89 @@
+[2019-01-10 15:44:18,125 - PROCESSING - ERROR] - ----------------- FORMAT FAIL -----------'0'------------
+[2019-01-10 15:45:57,104 - PROCESSING - ERROR] - ----------------- FORMAT FAIL -----------'0'------------
+[2019-01-10 16:04:12,717 - PROCESSING - INFO] - ------------------ FORMAT SUCCESS -----------------------
+[2019-01-10 16:04:49,542 - PROCESSING - INFO] - ------------------ FORMAT SUCCESS -----------------------
+[2019-01-10 16:04:53,715 - PROCESSING - INFO] - ------------------ FORMAT SUCCESS -----------------------
+[2019-01-10 16:05:48,729 - PROCESSING - INFO] - ------------------ FORMAT SUCCESS -----------------------
+[2019-01-10 16:06:33,883 - PROCESSING - INFO] - ------------------ FORMAT SUCCESS -----------------------
+[2019-01-10 16:06:46,830 - PROCESSING - ERROR] - ----------------- FORMAT FAIL -----------StartTag: invalid element name, line 1, column 2 (<string>, line 1)------------
+[2019-01-10 16:06:56,570 - PROCESSING - ERROR] - ----------------- FORMAT FAIL -----------StartTag: invalid element name, line 1, column 2 (<string>, line 1)------------
+[2019-01-10 16:07:03,978 - PROCESSING - INFO] - ------------------ FORMAT SUCCESS -----------------------
+[2019-01-10 16:08:23,775 - PROCESSING - INFO] - ------------------ FORMAT SUCCESS -----------------------
+[2019-01-10 16:11:15,621 - PROCESSING - INFO] - ------------------ FORMAT SUCCESS -----------------------
+[2019-01-10 16:13:58,204 - PROCESSING - INFO] - ------------------ FORMAT SUCCESS -----------------------
+[2019-01-10 16:14:17,127 - PROCESSING - INFO] - ------------------ FORMAT SUCCESS -----------------------
+[2019-01-10 17:04:38,826 - PROCESSING - ERROR] - ----------------- FORMAT FAIL -----------'bool' object is not subscriptable------------
+[2019-01-10 17:06:19,712 - PROCESSING - ERROR] - ----------------- FORMAT FAIL -----------'bool' object is not subscriptable------------
+[2019-01-10 18:02:06,656 - PROCESSING - ERROR] - ----------------- FORMAT FAIL -----------Opening and ending tag mismatch: meditems line 1 and ehr, line 1, column 14765 (<string>, line 1)------------
+[2019-01-10 18:06:24,306 - PROCESSING - ERROR] - ----------------- FORMAT FAIL -----------Opening and ending tag mismatch: meditems line 1 and ehr, line 1, column 14765 (<string>, line 1)------------
+[2019-01-10 18:06:46,538 - PROCESSING - ERROR] - ----------------- FORMAT FAIL -----------Opening and ending tag mismatch: meditems line 1 and ehr, line 1, column 14765 (<string>, line 1)------------
+[2019-01-10 18:07:10,873 - PROCESSING - ERROR] - ----------------- FORMAT FAIL -----------Opening and ending tag mismatch: meditems line 1 and ehr, line 1, column 14765 (<string>, line 1)------------
+[2019-01-10 18:07:30,939 - PROCESSING - ERROR] - ----------------- FORMAT FAIL -----------Opening and ending tag mismatch: meditems line 1 and ehr, line 1, column 14765 (<string>, line 1)------------
+[2019-01-10 18:07:52,351 - PROCESSING - ERROR] - ----------------- FORMAT FAIL -----------Opening and ending tag mismatch: meditems line 1 and ehr, line 1, column 14765 (<string>, line 1)------------
+[2019-01-11 09:05:04,521 - PROCESSING - ERROR] - ----------------- FORMAT FAIL -----------Opening and ending tag mismatch: meditems line 1 and ehr, line 1, column 14765 (<string>, line 1)------------
+[2019-01-11 09:06:51,242 - PROCESSING - INFO] - ------------------ FORMAT SUCCESS -----------------------
+[2019-01-11 09:07:48,108 - PROCESSING - INFO] - ------------------ FORMAT SUCCESS -----------------------
+[2019-01-11 09:08:19,189 - PROCESSING - INFO] - ------------------ FORMAT SUCCESS -----------------------
+[2019-01-11 09:08:57,064 - PROCESSING - ERROR] - ----------------- FORMAT FAIL -----------Opening and ending tag mismatch: meditems line 1 and ehr, line 1, column 14765 (<string>, line 1)------------
+[2019-01-11 09:11:02,071 - PROCESSING - ERROR] - ----------------- FORMAT FAIL -----------Opening and ending tag mismatch: meditems line 1 and ehr, line 1, column 14765 (<string>, line 1)------------
+[2019-01-11 09:15:26,976 - PROCESSING - INFO] - ------------------ FORMAT SUCCESS -----------------------
+[2019-01-11 09:15:47,525 - PROCESSING - INFO] - ------------------ FORMAT SUCCESS -----------------------
+[2019-01-11 09:19:31,953 - PROCESSING - INFO] - ------------------ FORMAT SUCCESS -----------------------
+[2019-01-11 09:20:35,442 - PROCESSING - ERROR] - ----------------- FORMAT FAIL -----------descriptor 'values' of 'dict' object needs an argument------------
+[2019-01-11 09:21:51,963 - PROCESSING - ERROR] - ----------------- FORMAT FAIL -----------descriptor 'values' of 'dict' object needs an argument------------
+[2019-01-11 09:23:34,751 - PROCESSING - ERROR] - ----------------- FORMAT FAIL -----------descriptor 'values' of 'dict' object needs an argument------------
+[2019-01-11 09:23:53,954 - PROCESSING - INFO] - ------------------ FORMAT SUCCESS -----------------------
+[2019-01-11 09:29:35,908 - PROCESSING - INFO] - ------------------ FORMAT SUCCESS -----------------------
+[2019-01-11 09:30:49,758 - PROCESSING - ERROR] - ----------------- FORMAT FAIL -----------descriptor 'values' of 'dict' object needs an argument------------
+[2019-01-11 09:31:15,237 - PROCESSING - ERROR] - ----------------- FORMAT FAIL -----------descriptor 'values' of 'dict' object needs an argument------------
+[2019-01-11 09:31:42,517 - PROCESSING - INFO] - ------------------ FORMAT SUCCESS -----------------------
+[2019-01-11 09:32:50,084 - PROCESSING - INFO] - ------------------ FORMAT SUCCESS -----------------------
+[2019-01-11 09:33:48,982 - PROCESSING - INFO] - ------------------ FORMAT SUCCESS -----------------------
+[2019-01-11 09:35:40,566 - PROCESSING - INFO] - ------------------ FORMAT SUCCESS -----------------------
+[2019-01-11 09:36:57,366 - PROCESSING - INFO] - ------------------ FORMAT SUCCESS -----------------------
+[2019-01-11 09:37:48,905 - PROCESSING - INFO] - ------------------ FORMAT SUCCESS -----------------------
+[2019-01-11 09:39:13,454 - PROCESSING - INFO] - ------------------ FORMAT SUCCESS -----------------------
+[2019-01-11 09:39:48,940 - PROCESSING - INFO] - ------------------ FORMAT SUCCESS -----------------------
+[2019-01-11 09:44:29,233 - PROCESSING - ERROR] - ----------------- FORMAT FAIL -----------descriptor 'values' of 'dict' object needs an argument------------
+[2019-01-11 09:45:11,006 - PROCESSING - ERROR] - ----------------- FORMAT FAIL -----------descriptor 'values' of 'dict' object needs an argument------------
+[2019-01-11 09:45:33,176 - PROCESSING - INFO] - ------------------ FORMAT SUCCESS -----------------------
+[2019-01-11 09:45:50,430 - PROCESSING - INFO] - ------------------ FORMAT SUCCESS -----------------------
+[2019-01-11 09:46:31,154 - PROCESSING - INFO] - ------------------ FORMAT SUCCESS -----------------------
+[2019-01-11 09:50:23,040 - PROCESSING - ERROR] - ----------------- FORMAT FAIL -----------'bool' object is not subscriptable------------
+[2019-01-11 09:53:58,935 - PROCESSING - ERROR] - ----------------- FORMAT FAIL -----------'bool' object is not subscriptable------------
+[2019-01-11 09:55:09,604 - PROCESSING - ERROR] - ----------------- FORMAT FAIL -----------'bool' object is not subscriptable------------
+[2019-01-11 09:57:37,038 - PROCESSING - ERROR] - ----------------- FORMAT FAIL -----------'bool' object is not subscriptable------------
+[2019-01-11 09:58:40,621 - PROCESSING - ERROR] - ----------------- FORMAT FAIL -----------'bool' object is not subscriptable------------
+[2019-01-11 10:00:00,191 - PROCESSING - ERROR] - ----------------- FORMAT FAIL -----------count() takes exactly one argument (0 given)------------
+[2019-01-11 10:01:32,090 - PROCESSING - ERROR] - ----------------- FORMAT FAIL -----------descriptor 'values' of 'dict' object needs an argument------------
+[2019-01-11 10:02:05,394 - PROCESSING - ERROR] - ----------------- FORMAT FAIL -----------'bool' object is not subscriptable------------
+[2019-01-11 10:09:43,854 - PROCESSING - ERROR] - ----------------- FORMAT FAIL -----------'bool' object is not subscriptable------------
+[2019-01-11 10:10:19,676 - PROCESSING - ERROR] - ----------------- FORMAT FAIL -----------'bool' object is not subscriptable------------
+[2019-01-11 10:11:50,550 - PROCESSING - ERROR] - ----------------- FORMAT FAIL -----------'bool' object is not subscriptable------------
+[2019-01-11 10:12:41,135 - PROCESSING - ERROR] - ----------------- FORMAT FAIL -----------'bool' object is not subscriptable------------
+[2019-01-11 10:17:42,639 - PROCESSING - ERROR] - ----------------- FORMAT FAIL -----------'bool' object is not subscriptable------------
+[2019-01-11 10:19:27,695 - PROCESSING - ERROR] - ----------------- FORMAT FAIL -----------'bool' object is not subscriptable------------
+[2019-01-11 10:27:25,610 - PROCESSING - INFO] - ------------------ FORMAT SUCCESS -----------------------
+[2019-01-11 10:35:34,554 - PROCESSING - ERROR] - ----------------- FORMAT FAIL -----------sequence item 1204: expected str instance, float found------------
+[2019-01-11 10:36:39,362 - PROCESSING - ERROR] - ----------------- FORMAT FAIL -----------'bool' object is not subscriptable------------
+[2019-01-11 10:37:52,660 - PROCESSING - ERROR] - ----------------- FORMAT FAIL -----------sequence item 1204: expected str instance, float found------------
+[2019-01-11 10:38:55,128 - PROCESSING - INFO] - ------------------ FORMAT SUCCESS -----------------------
+[2019-01-11 10:39:50,703 - PROCESSING - INFO] - ------------------ FORMAT SUCCESS -----------------------
+[2019-01-11 10:40:27,019 - PROCESSING - INFO] - ------------------ FORMAT SUCCESS -----------------------
+[2019-01-11 10:41:47,016 - PROCESSING - ERROR] - ----------------- FORMAT FAIL -----------'str' object has no attribute 'fillna'------------
+[2019-01-11 10:42:07,103 - PROCESSING - ERROR] - ----------------- FORMAT FAIL -----------'str' object has no attribute 'fillna'------------
+[2019-01-11 10:42:32,777 - PROCESSING - INFO] - ------------------ FORMAT SUCCESS -----------------------
+[2019-01-11 10:43:23,511 - PROCESSING - INFO] - ------------------ FORMAT SUCCESS -----------------------
+[2019-01-11 10:44:14,528 - PROCESSING - INFO] - ------------------ FORMAT SUCCESS -----------------------
+[2019-01-11 10:44:50,769 - PROCESSING - ERROR] - ----------------- FORMAT FAIL -----------sequence item 1204: expected str instance, float found------------
+[2019-01-11 10:45:58,496 - PROCESSING - ERROR] - ----------------- FORMAT FAIL -----------'bool' object is not subscriptable------------
+[2019-01-11 10:47:43,392 - PROCESSING - ERROR] - ----------------- FORMAT FAIL -----------'bool' object is not subscriptable------------
+[2019-01-11 10:49:33,168 - PROCESSING - ERROR] - ----------------- FORMAT FAIL -----------sequence item 1204: expected str instance, float found------------
+[2019-01-11 10:50:10,236 - PROCESSING - ERROR] - ----------------- FORMAT FAIL -----------'bool' object is not subscriptable------------
+[2019-01-11 10:50:45,876 - PROCESSING - ERROR] - ----------------- FORMAT FAIL -----------'bool' object is not subscriptable------------
+[2019-01-11 10:51:11,714 - PROCESSING - ERROR] - ----------------- FORMAT FAIL -----------sequence item 1204: expected str instance, float found------------
+[2019-01-11 10:51:58,235 - PROCESSING - ERROR] - ----------------- FORMAT FAIL -----------'bool' object is not subscriptable------------
+[2019-01-11 10:52:59,689 - PROCESSING - ERROR] - ----------------- FORMAT FAIL -----------'bool' object is not subscriptable------------
+[2019-01-11 10:53:40,271 - PROCESSING - ERROR] - ----------------- FORMAT FAIL -----------'float' object has no attribute 'fillna'------------
+[2019-01-11 10:55:42,638 - PROCESSING - ERROR] - ----------------- FORMAT FAIL -----------'bool' object is not subscriptable------------
+[2019-01-11 10:56:02,489 - PROCESSING - ERROR] - ----------------- FORMAT FAIL -----------'bool' object is not subscriptable------------

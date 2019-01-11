@@ -1,0 +1,11 @@
+[2019-01-11 10:45:58,496 - PROCESSING - ERROR] - ----------------- FORMAT FAIL -----------'bool' object is not subscriptable------------
+[2019-01-11 10:47:43,392 - PROCESSING - ERROR] - ----------------- FORMAT FAIL -----------'bool' object is not subscriptable------------
+[2019-01-11 10:49:33,168 - PROCESSING - ERROR] - ----------------- FORMAT FAIL -----------sequence item 1204: expected str instance, float found------------
+[2019-01-11 10:50:10,236 - PROCESSING - ERROR] - ----------------- FORMAT FAIL -----------'bool' object is not subscriptable------------
+[2019-01-11 10:50:45,876 - PROCESSING - ERROR] - ----------------- FORMAT FAIL -----------'bool' object is not subscriptable------------
+[2019-01-11 10:51:11,714 - PROCESSING - ERROR] - ----------------- FORMAT FAIL -----------sequence item 1204: expected str instance, float found------------
+[2019-01-11 10:51:58,235 - PROCESSING - ERROR] - ----------------- FORMAT FAIL -----------'bool' object is not subscriptable------------
+[2019-01-11 10:52:59,689 - PROCESSING - ERROR] - ----------------- FORMAT FAIL -----------'bool' object is not subscriptable------------
+[2019-01-11 10:53:40,271 - PROCESSING - ERROR] - ----------------- FORMAT FAIL -----------'float' object has no attribute 'fillna'------------
+[2019-01-11 10:55:42,638 - PROCESSING - ERROR] - ----------------- FORMAT FAIL -----------'bool' object is not subscriptable------------
+[2019-01-11 10:56:02,489 - PROCESSING - ERROR] - ----------------- FORMAT FAIL -----------'bool' object is not subscriptable------------
